@@ -14,7 +14,7 @@ function App() {
         <label>Password</label>
         <input type="password" placeholder="Value" />
 
-        <button className="sign-in">Sign In</button>
+        <button className="sign-in">Log In</button>
         <a href="#" className="forgot-password">Forgot password?</a>
       </div>
 
